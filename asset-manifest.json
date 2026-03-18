@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b679aaee.chunk.css",
+    "main.js": "/static/js/main.8a9dc536.chunk.js",
+    "main.js.map": "/static/js/main.8a9dc536.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2781e2dc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2781e2dc.js.map",
+    "static/js/2.0f3103e5.chunk.js": "/static/js/2.0f3103e5.chunk.js",
+    "static/js/2.0f3103e5.chunk.js.map": "/static/js/2.0f3103e5.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e4c65844e2e965873221f989a6df84a9.js": "/precache-manifest.e4c65844e2e965873221f989a6df84a9.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.b679aaee.chunk.css.map": "/static/css/main.b679aaee.chunk.css.map",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/Annimated_logo.png": "/static/media/Annimated_logo.81a9055d.png",
+    "static/media/Ashutosh_Hathidara_Resume_ML.pdf": "/static/media/Ashutosh_Hathidara_Resume_ML.bad37978.pdf",
+    "static/media/My_pic.png": "/static/media/My_pic.4b5847df.png",
+    "static/media/address_image.svg": "/static/media/address_image.16559172.svg",
+    "static/media/animated_ashutosh.png": "/static/media/animated_ashutosh.eaf02c2d.png",
+    "static/media/contactMail.png": "/static/media/contactMail.5f915405.png",
+    "static/media/dsc_logo.png": "/static/media/dsc_logo.63f707f2.png",
+    "static/media/experience.svg": "/static/media/experience.a00ede3f.svg",
+    "static/media/feelingProud.svg": "/static/media/feelingProud.2936ce95.svg",
+    "static/media/github_logo.png": "/static/media/github_logo.6eeb2e81.png",
+    "static/media/intel_logo.jpg": "/static/media/intel_logo.29152cf7.jpg",
+    "static/media/legato_logo.png": "/static/media/legato_logo.c597fbde.png",
+    "static/media/muffito_logo.png": "/static/media/muffito_logo.069938a8.png",
+    "static/media/nptel_logo.png": "/static/media/nptel_logo.95a12a2b.png",
+    "static/media/projects_image.svg": "/static/media/projects_image.b8ba9487.svg",
+    "static/media/talksCardBack.svg": "/static/media/talksCardBack.6ac91b16.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2781e2dc.js",
+    "static/js/2.0f3103e5.chunk.js",
+    "static/css/main.b679aaee.chunk.css",
+    "static/js/main.8a9dc536.chunk.js"
+  ]
+}
